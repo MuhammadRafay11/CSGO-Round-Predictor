@@ -7,4 +7,4 @@ In this project, we built a machine learning model to predict the winner of a ro
 
 Results:
 
-![download (3)](https://github.com/whiz-coder/CSGO-Round-Winner-Prediction/assets/73718958/79b1a3f9-a5bc-4a9d-919f-eccabe12c4d3)
+![download (3)](https://github.com/MuhammadRafay11/CSGO-Round-Predictor/blob/main/output.png)
